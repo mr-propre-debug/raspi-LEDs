@@ -1,0 +1,1 @@
+This is a training python project with GPIO and a raspberry pi
